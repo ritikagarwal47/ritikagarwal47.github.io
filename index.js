@@ -15,7 +15,7 @@ var Typer = {
 	Specialist(1562) @ <a href="https://codeforces.com/profile/ritikagarwal" target="_blank">Codeforces</a> and 
 	Knight(1891) @ <a href="https://leetcode.com/ritikagarwal47/" target="_blank">Leetcode</a> 👨‍💻</span>
 	
-	<span> Download my resume <a href="" target="_blank">here</a></span>
+	<span> Download my resume <a href="https://drive.google.com/file/d/1KPF_y3ccOzVp4vgSbY5LMqoq6bCBblGU/view?usp=sharing" target="_blank">here</a></span>
 	
 	I am <span id="a">looking for interesting roles & opportunites</span> relevant to my profile which gives me an opportunity to be involved in amazing projects
 	If you are looking for someone like me or know any opportunities<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="mailto:ritikagarwal470@gmail.com"> ritikagarwal470@gmail.com</a>
