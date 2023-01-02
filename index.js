@@ -3,19 +3,32 @@ var Typer = {
 	<span id="a">ritik_agarwal@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->my_profile/introduction.txt<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 	
 	<span> Welcome to my matrix! I am <span id="a">Ritik Agarwal✌️</span></span>
-	<span> Competitive Programmer | I am a Developer | Tech Enthusiast</span>
+	<span>  I am a Developer | Competitive Programmer | Tech Enthusiast</span>
 	
 	My motto, "<span id="k">To become a successful expert in the field of Information Technology by channelizing my technical knowledge and skills to ensure personal and professional growth and to contribute to the prosperity of the organization.</span>" <!-- sjkfhskjf -->
 	
 	<span>I have completed my B.Tech in <span id="a">Information Technology</span>@ <span id="a">G L Bajaj Institute of Technology and Management, Greater Noida</span>
 	
-	<span>I have interned with <span id="a">Pluang Technology</span>, <span id="a">MiQ Digital</span> and done several projects & solved interesting algorithms</span>
+    <span> Currently working in <span id="a"> Amazon </span> as a Software Engineer </span>
+        
+	<span>I have interned with <span id="a">Pluang Technology</span>, <span id="a">MiQ Digital</span> </span> 
+    
+    <span> Expertise in <span id="a"> Data structures and Algorithms.</span>
+
+    Experience working in front-end development, back-end development, system design, and data analysis.
+    </span>
+    <span>
+    Worked on <span id="a">technologies</span> like
+    In Frontend->  <span id="a">React JS, Redux</span>
+    In Backend-> <span id="a">NodeJS(with express),Django, Spring Boot,C++</span>
+    In DataBase and other common tools-> <span id="a">MongoDB, MySQL, REST APIs,Kafka, Redis, RebitMQ, Kubernative,Microservices, Amazon Web Services(AWS), git,</span>etc.
+    Languages known -> <span id="a">C/C++,  Python, Java </span>
+    and done several projects & solved interesting algorithms
+    </span>
 	
-	<span>I am a 4🌟(1955) coder @ <a href="https://www.codechef.com/users/ritikagarwal47" target="_blank">Codechef</a> , 
-	Specialist(1562) @ <a href="https://codeforces.com/profile/ritikagarwal" target="_blank">Codeforces</a> and 
-	Knight(1891) @ <a href="https://leetcode.com/ritikagarwal47/" target="_blank">Leetcode</a> 👨‍💻</span>
+	<span>I am a Knight(1891) @ <a href="https://leetcode.com/ritikagarwal47/" target="_blank">Leetcode </a>,4🌟(1955)  @ <a href="https://www.codechef.com/users/ritikagarwal47" target="_blank">Codechef</a> ,Specialist(1562) @ <a href="https://codeforces.com/profile/ritikagarwal" target="_blank">Codeforces</a> 👨‍💻</span>
 	
-	<span> Download my resume <a href="https://drive.google.com/file/d/1KPF_y3ccOzVp4vgSbY5LMqoq6bCBblGU/view?usp=sharing" target="_blank">here</a></span>
+	<span> Download my resume <a href="https://drive.google.com/file/d/1A_cutvpG_n6cJIKJnwlO_dc-DblEXu7V/view?usp=sharing" target="_blank">here</a></span>
 	
 	I am <span id="a">looking for interesting roles & opportunites</span> relevant to my profile which gives me an opportunity to be involved in amazing projects
 	If you are looking for someone like me or know any opportunities<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="mailto:ritikagarwal470@gmail.com"> ritikagarwal470@gmail.com</a>
