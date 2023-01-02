@@ -1,7 +1,8 @@
 var Typer = {
     text: `<span id="a">ritik_agarwal@dev</span>:<span id="b">~</span><span id="c">$</span> git clone my_profile<!-- kjsdfhkjdhsfkjdshfkj -->
-	<span id="a">ritik_agarwal@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->my_profile/introduction.txt<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-	
+	<span id="a">ritik_agarwal@dev</span>:<span id="b">~</span><span id="c">$</span> git <!-- kjsdfhkjdhsfkjdshfkj -->run TechBuddy<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+	<span id="a">TechBuddy</span>:<span id="b">~</span><span id="c">$</span></span> PortFolio of Ritik Agarwal is Uploading<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<span id="k"></span>
+
 	<span> Welcome to my matrix! I am <span id="a">Ritik Agarwal✌️</span></span>
 	<span>  I am a Developer | Competitive Programmer | Tech Enthusiast</span>
 	
@@ -15,8 +16,7 @@ var Typer = {
     
     <span> Expertise in <span id="a"> Data structures and Algorithms.</span>
 
-    Experience working in front-end development, back-end development, system design, and data analysis.
-    </span>
+    Experience working in front-end development, back-end development, system design, and data analysis.</span>
     <span>
     Worked on <span id="a">technologies</span> like
     In Frontend->  <span id="a">React JS, Redux</span>
@@ -35,7 +35,8 @@ var Typer = {
 	
 	<!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 	<span> Here are few more places you can connect with me - <a href="https://github.com/ritikagarwal47" target="_blank">Github</a>, <a href="https://www.linkedin.com/in/ritik-agarwal-6b77031a1/" target="_blank">LinkedIn</a>  
-	
+    
+	Thanks for visiting !
 	<span id="a">ritik_agarwal@dev</span>:<span id="b">~</span><span id="c">$</span> exit<!-- kjsdfhkjdhsfkjdshfkj -->
 	`,
     accessCountimer: null,
