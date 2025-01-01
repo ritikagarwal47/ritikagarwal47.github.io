@@ -8,25 +8,26 @@ var Typer = {
 	
 	My motto, "<span id="k">To become a successful expert in the field of Information Technology by channelizing my technical knowledge and skills to ensure personal and professional growth and to contribute to the prosperity of the organization.</span>" <!-- sjkfhskjf -->
 	
-	<span>I have completed my B.Tech in <span id="a">Information Technology</span>@ <span id="a">G L Bajaj Institute of Technology and Management, Greater Noida</span>
+	<span>I have completed my B.Tech in <span id="a">Information Technology 2022 batch</span>@ <span id="a">G L Bajaj Institute of Technology and Management, Greater Noida</span>
 	
-    <span> Currently working in <span id="a"> Amazon </span> as a Software Engineer </span>
+    <span> Currently working in <span id="a"> Shipbob </span> as a Software Engineer <span id="a"> Ex-Amazon </span></span>
         
-	<span>I have interned with <span id="a">Pluang Technology</span>, <span id="a">MiQ Digital</span> </span> 
+	<span>I also have <span id="a"> 1+ </span> of intern experience with <span id="a">Pluang Technology</span>, <span id="a">MiQ Digital</span> </span> 
     
-    <span> Expertise in <span id="a"> Data structures and Algorithms.</span>
-
-    Experience working in front-end development, back-end development, system design, and data analysis.</span>
     <span>
-    Worked on <span id="a">technologies</span> like
-    In Frontend->  <span id="a">React JS, Redux</span>
-    In Backend-> <span id="a">NodeJS(with express),Django, Spring Boot,C++</span>
-    In DataBase and other common tools-> <span id="a">MongoDB, MySQL, REST APIs,Kafka, Redis, RebitMQ, Kubernative,Microservices, Amazon Web Services(AWS), git,</span>etc.
-    Languages known -> <span id="a">C/C++,  Python, Java </span>
-    and done several projects & solved interesting algorithms
+    Experience working in <span id="a"> back-end development, front-end development, data bases,</span> system design, and etc.
+
+    Expertise in <span id="a"> Data structures and Algorithms.</span>
+    </span>
+    <span>
+    Expertise worked on <span id="a">technologies</span> like
+    In Frontend->  <span id="a">Vue JS and React JS</span>
+    In Backend-> <span id="a"> ASP DotNet,Spring Boot,NodeJS(with express),Django</span>
+    In DataBase and other common tools-> <span id="a">MySQL, REST APIs,Kafka, Redis, RebitMQ, Kubernative,Microservices, Amazon Web Services(AWS), git,</span>etc.
+    and worked on several interesting projects in organizations
     </span>
 	
-	<span>I am a Knight(1891) @ <a href="https://leetcode.com/ritikagarwal47/" target="_blank">Leetcode </a>,4🌟(1955)  @ <a href="https://www.codechef.com/users/ritikagarwal47" target="_blank">Codechef</a> ,Specialist(1562) @ <a href="https://codeforces.com/profile/ritikagarwal" target="_blank">Codeforces</a> 👨‍💻</span>
+	<span>Enthusiast Competitive Programmer links-> Knight(1891) @ <a href="https://leetcode.com/ritikagarwal47/" target="_blank">Leetcode </a>,4🌟(1955)  @ <a href="https://www.codechef.com/users/ritikagarwal47" target="_blank">Codechef</a> ,Specialist(1562) @ <a href="https://codeforces.com/profile/ritikagarwal" target="_blank">Codeforces</a> 👨‍💻</span>
 	
 	<span> Download my resume <a href="https://drive.google.com/file/d/1A_cutvpG_n6cJIKJnwlO_dc-DblEXu7V/view?usp=sharing" target="_blank">here</a></span>
 	
@@ -37,7 +38,7 @@ var Typer = {
 	<span> Here are few more places you can connect with me - <a href="https://github.com/ritikagarwal47" target="_blank">Github</a>, <a href="https://www.linkedin.com/in/ritik-agarwal-6b77031a1/" target="_blank">LinkedIn</a>  
     
 	Thanks for visiting !
-	<span id="a">ritik_agarwal@dev</span>:<span id="b">~</span><span id="c">$</span> exit<!-- kjsdfhkjdhsfkjdshfkj -->
+	<span id="a">TechBuddy</span>:<span id="b">~</span><span id="c">$</span> exit<!-- kjsdfhkjdhsfkjdshfkj -->
 	`,
     accessCountimer: null,
     index: 0,
