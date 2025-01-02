@@ -1,43 +1,73 @@
 var Typer = {
     text: `<span id="a">ritik_agarwal@dev</span>:<span id="b">~</span><span id="c">$</span> git clone my_profile<!-- kjsdfhkjdhsfkjdshfkj -->
+    <span id="a">ritik_agarwal@dev</span>:<span id="b">~</span><span id="c">$</span> cd my_profile<!-- kjsdfhkjdhsfkjdshfkj -->
 	<span id="a">ritik_agarwal@dev</span>:<span id="b">~</span><span id="c">$</span> git <!-- kjsdfhkjdhsfkjdshfkj -->run TechBuddy<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-	<span id="a">TechBuddy</span>:<span id="b">~</span><span id="c">$</span></span> PortFolio of Ritik Agarwal is Uploading<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<span id="k"></span>
+	<span id="a">TechBuddy</span>:<span id="b">~</span><span id="c">$</span></span> 🚀 Uploading Portfolio of Ritik Agarwal <!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<span id="k"></span>
 
-	<span> Welcome to my matrix! I am <span id="a">Ritik Agarwal✌️</span></span>
-	<span>  I am a Developer | Competitive Programmer | Tech Enthusiast</span>
+	<span>👾 Welcome to my matrix! 👾! 
+    I'm <span id="a">Ritik Agarwal✌️</span></span>
+	<span>  A Developer | Competitive Programmer | Tech Enthusiast</span>
 	
-	My motto, "<span id="k">To become a successful expert in the field of Information Technology by channelizing my technical knowledge and skills to ensure personal and professional growth and to contribute to the prosperity of the organization.</span>" <!-- sjkfhskjf -->
-	
-	<span>I have completed my B.Tech in <span id="a">Information Technology 2022 batch</span>@ <span id="a">G L Bajaj Institute of Technology and Management, Greater Noida</span>
-	
-    <span> Currently working in <span id="a"> Shipbob </span> as a Software Engineer <span id="a"> Ex-Amazon </span></span>
-        
-	<span>I also have <span id="a"> 1+ </span> of intern experience with <span id="a">Pluang Technology</span>, <span id="a">MiQ Digital</span> </span> 
-    
-    <span>
-    Experience working in <span id="a"> back-end development, front-end development, data bases,</span> system design, and etc.
+    ---
+	My motto:
+    "<span id="k">To become a successful expert in the field of Information Technology by channelizing my technical knowledge and skills to ensure personal and professional growth and to contribute to the prosperity of the organization.</span>" <!-- sjkfhskjf -->
+    ---
 
-    Expertise in <span id="a"> Data structures and Algorithms.</span>
-    </span>
+    🎓 Education:
+	<span>- B.Tech in <span id="a">Information Technology, 2022 </span>
+    <span id="a">G L Bajaj Institute of Technology and Management, Greater Noida</span>
+	
+    💼 Current Role:
+    <span> - Software Engineer @ <span id="a"> ShipBob  </span>
+        - <span id="a">Ex-Amazon  </span>
+        - Intern Experience: 1+ years ( <span id="a"> Pluang Technology, MiQ Digital </span>)
     <span>
-    Expertise worked on <span id="a">technologies</span> like
-    In Frontend->  <span id="a">Vue JS and React JS</span>
-    In Backend-> <span id="a"> ASP DotNet,Spring Boot,NodeJS(with express),Django</span>
-    In DataBase and other common tools-> <span id="a">MySQL, REST APIs,Kafka, Redis, RebitMQ, Kubernative,Microservices, Amazon Web Services(AWS), git,</span>etc.
-    and worked on several interesting projects in organizations
+
+    ---
+
+    Experience & Expertise:
+    <span id="a"> - Backend Development  
+    - Frontend Development  
+    - Databases  
+    - Data structures and Algorithms
+    - System Design, etc
+    </span>
+
+    Technical Proficiency:
+    <span>
+    - Frontend: <span id="a"> Vue.js, React.js </span>
+    - Backend:  <span id="a">ASP.NET, Spring Boot, Node.js (Express), Django  </span>
+    - Databases & Tools: <span id="a"> MySQL, REST APIs, Kafka, Redis,  </span>
+    - Other Skills: <span id="a"> Microservices, Azure, Git , Agile  </span>
+    - worked on several interesting projects in organizations
     </span>
 	
-	<span>Enthusiast Competitive Programmer links-> Knight(1891) @ <a href="https://leetcode.com/ritikagarwal47/" target="_blank">Leetcode </a>,4🌟(1955)  @ <a href="https://www.codechef.com/users/ritikagarwal47" target="_blank">Codechef</a> ,Specialist(1562) @ <a href="https://codeforces.com/profile/ritikagarwal" target="_blank">Codeforces</a> 👨‍💻</span>
-	
-	<span> Download my resume <a href="https://drive.google.com/file/d/1A_cutvpG_n6cJIKJnwlO_dc-DblEXu7V/view?usp=sharing" target="_blank">here</a></span>
-	
-	I am <span id="a">looking for interesting roles & opportunites</span> relevant to my profile which gives me an opportunity to be involved in amazing projects
-	If you are looking for someone like me or know any opportunities<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="mailto:ritikagarwal470@gmail.com"> ritikagarwal470@gmail.com</a>
-	
-	<!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-	<span> Here are few more places you can connect with me - <a href="https://github.com/ritikagarwal47" target="_blank">Github</a>, <a href="https://www.linkedin.com/in/ritik-agarwal-6b77031a1/" target="_blank">LinkedIn</a>  
+    Consistent Competitive Programming:
+	<span>
+    - <a href="https://leetcode.com/ritikagarwal47/" target="_blank">Leetcode 👨‍💻</a>: Knight (Rating: 1891)  
+    - <a href="https://www.codechef.com/users/ritikagarwal47" target="_blank">Codechef</a>: 4⭐ (Rating: 1955)  
+    - <a href="https://codeforces.com/profile/ritikagarwal" target="_blank">Codeforces</a>: Specialist (Rating: 1562)  
+    </span>
+
+    🌟 Looking for Opportunities:
+    <span>
+    I’m actively exploring roles and opportunities where I can work on challenging and innovative projects.  
+    </span>
+
+    <span> 
+    📩 Reach me: <!-- longlonglongcomment --><a href="mailto:ritikagarwal470@gmail.com"> ritikagarwal470@gmail.com</a>
+    📜 [Download Resume](<a href="https://drive.google.com/file/d/1A_cutvpG_n6cJIKJnwlO_dc-DblEXu7V/view?usp=sharing" target="_blank">here</a>)  
+    </span>
+    <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+
+    🌐 Connect with Me:
+    <span>
+	- <a href="https://github.com/ritikagarwal47" target="_blank">Github</a>  
+    - <a href="https://www.linkedin.com/in/ritik-agarwal-6b77031a1/" target="_blank">LinkedIn</a>
+    ---
+
+	Thank you for stopping by! 
     
-	Thanks for visiting !
 	<span id="a">TechBuddy</span>:<span id="b">~</span><span id="c">$</span> exit<!-- kjsdfhkjdhsfkjdshfkj -->
 	`,
     accessCountimer: null,
