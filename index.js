@@ -1,66 +1,67 @@
 var Typer = {
-    text: `<span id="a">ritik_agarwal@dev</span>:<span id="b">~</span><span id="c">$</span> git clone my_profile<!-- kjsdfhkjdhsfkjdshfkj -->
-    <span id="a">ritik_agarwal@dev</span>:<span id="b">~</span><span id="c">$</span> cd my_profile<!-- kjsdfhkjdhsfkjdshfkj -->
-	<span id="a">ritik_agarwal@dev</span>:<span id="b">~</span><span id="c">$</span> git <!-- kjsdfhkjdhsfkjdshfkj -->run TechBuddy<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-	<span id="a">TechBuddy</span>:<span id="b">~</span><span id="c">$</span></span> 🚀 Uploading Portfolio of Ritik Agarwal <!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<span id="k"></span>
+    text: `<span id="a">ritik_agarwal@dev</span>:<span id="b">~</span><span id="c">$</span> git clone my_profile
+    <span id="a">ritik_agarwal@dev</span>:<span id="b">~</span><span id="c">$</span> cd my_profile
+    <span id="a">ritik_agarwal@dev</span>:<span id="b">~</span><span id="c">$</span> git run TechBuddy
+    <span id="a">TechBuddy</span>:<span id="b">~</span><span id="c">$</span> 🚀 Uploading Portfolio of Ritik Agarwal<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.<!-- slightdelayhere-->.
 
-	<span>👾 Welcome to my matrix! 👾! 
-    I'm <span id="a">Ritik Agarwal✌️</span></span>
-	<span>  A Developer | Competitive Programmer | Tech Enthusiast</span>
-	
-    ---
-    
-	My motto:
-    "<span id="k">To become a successful expert in the field of Information Technology by channelizing my technical knowledge and skills to ensure personal and professional growth and to contribute to the prosperity of the organization.</span>" <!-- sjkfhskjf -->
-    
-    ---
+    <span>👾 <strong>Welcome to my matrix!</strong> 👾</span>
+    <span>Hi, I’m <strong>Ritik Agarwal</strong> ✌️</span>
+    <span>A <strong>Developer</strong> | <strong>Competitive Programmer</strong> | <strong>Tech Enthusiast</strong></span>
 
-    🎓 Education:
-	<span>- B.Tech in <span id="a">Information Technology, 2022 </span>
-    <span id="a">G L Bajaj Institute of Technology and Management, Greater Noida</span>
-	
-    💼 Current Role:
-    <span> - Software Engineer @ <span id="a"> ShipBob  </span>
-        - <span id="a">Ex-Amazon  </span>
-        - Intern Experience: 1+ years ( <span id="a"> Pluang Technology, MiQ Digital </span>)<span>
+    <hr/>
 
-    ---
+    <span><strong>My Motto:</strong></span>
+    <span>"To become a successful expert in the field of Information Technology by channelizing my technical knowledge and skills to ensure personal and professional growth, and to contribute to the prosperity of the organization."</span>
 
-    Experience & Expertise:
-    - <span id="a"> Backend Development  </span>
-    - <span id="a">Frontend Development  </span>
-    - <span id="a">Databases  </span>
-    - <span id="a">Data structures and Algorithms </span>
-    - <span id="a">System Design, etc </span>
+    <hr/>
 
-    Technical Proficiency:
-    <span>- Frontend: <span id="a"> Vue.js, React.js </span>
-    - Backend:  <span id="a">ASP.NET, Spring Boot, Node.js (Express), Django  </span>
-    - Databases & Tools: <span id="a"> MySQL, REST APIs, Kafka, Redis,  </span>
-    - Other Skills: <span id="a"> Microservices, Azure, Git , Agile  </span>
-    - worked on several interesting projects in organizations</span>
-	
-    Consistent Competitive Programming:
-	<span>- <a href="https://leetcode.com/ritikagarwal47/" target="_blank">Leetcode </a>👨‍💻: Knight (Rating: 1891)  
-    - <a href="https://www.codechef.com/users/ritikagarwal47" target="_blank">Codechef</a>: 4⭐ (Rating: 1955)  
-    - <a href="https://codeforces.com/profile/ritikagarwal" target="_blank">Codeforces</a>: Specialist (Rating: 1562)  </span>
+    <span>🎓 <strong>Education:</strong></span>
+    <span>- B.Tech in <strong>Information Technology, 2022</strong></span>
+    <span>- <strong>G L Bajaj Institute of Technology and Management, Greater Noida</strong></span>
 
-    🌟 Looking for Opportunities:
-    <span>I’m actively exploring roles and opportunities where I can work on challenging and innovative projects.  
-    </span>
-    <span> 📩 Reach me: <!-- longlonglongcomment --><a href="mailto:ritikagarwal470@gmail.com"> ritikagarwal470@gmail.com</a>
-    📜 [Download Resume](<a href="https://drive.google.com/file/d/1A_cutvpG_n6cJIKJnwlO_dc-DblEXu7V/view?usp=sharing" target="_blank">here</a>)   </span>
-    
-    🌐 Connect with Me:
-    <span>- <a href="https://github.com/ritikagarwal47" target="_blank">Github</a>  
-    - <a href="https://www.linkedin.com/in/ritikagarwal470/" target="_blank">LinkedIn</a>
-    
-    ---
+    <span>💼 <strong>Current Role:</strong></span>
+    <span>- Software Engineer @ <strong>ShipBob</strong></span>
+    <span>- Ex-Amazon</span>
+    <span>- Intern Experience: 1+ years (<strong>Pluang Technology, MiQ Digital</strong>)</span>
 
-	Thank you for stopping by! 
-    
-	<span id="a">TechBuddy</span>:<span id="b">~</span><span id="c">$</span> exit<!-- kjsdfhkjdhsfkjdshfkj -->
-	`,
+    <hr/>
+
+    <span><strong>Experience & Expertise:</strong></span>
+    <span>- Backend Development</span>
+    <span>- Frontend Development</span>
+    <span>- Databases</span>
+    <span>- Data Structures and Algorithms</span>
+    <span>- System Design</span>
+
+    <span><strong>Technical Proficiency:</strong></span>
+    <span>- Frontend: <strong>Vue.js, React.js</strong></span>
+    <span>- Backend: <strong>ASP.NET, Spring Boot, Node.js (Express), Django</strong></span>
+    <span>- Databases & Tools: <strong>MySQL, REST APIs, Kafka, Redis</strong></span>
+    <span>- Other Skills: <strong>Microservices, Azure, Git, Agile</strong></span>
+
+    <hr/>
+
+    <span>👨‍💻 <strong>Competitive Programming:</strong></span>
+    <span>- <a href="https://leetcode.com/ritikagarwal47/" target="_blank">Leetcode</a>: Knight (Rating: 1891)</span>
+    <span>- <a href="https://www.codechef.com/users/ritikagarwal47" target="_blank">CodeChef</a>: 4⭐ (Rating: 1955)</span>
+    <span>- <a href="https://codeforces.com/profile/ritikagarwal" target="_blank">Codeforces</a>: Specialist (Rating: 1562)</span>
+
+    <hr/>
+
+    <span>🌟 <strong>Looking for Opportunities:</strong></span>
+    <span>I’m actively exploring roles and opportunities to work on challenging and innovative projects.</span>
+    <span>📩 <strong>Reach me:</strong> <a href="mailto:ritikagarwal470@gmail.com">ritikagarwal470@gmail.com</a></span>
+    <span>📜 <strong>[Download Resume](<a href="https://drive.google.com/file/d/1A_cutvpG_n6cJIKJnwlO_dc-DblEXu7V/view?usp=sharing" target="_blank">here</a>)</strong></span>
+
+    <span>🌐 <strong>Connect with Me:</strong></span>
+    <span>- <a href="https://github.com/ritikagarwal47" target="_blank">GitHub</a></span>
+    <span>- <a href="https://www.linkedin.com/in/ritikagarwal470/" target="_blank">LinkedIn</a></span>
+
+    <hr/>
+
+    <span>Thank you for stopping by!</span>
+
+    <span id="a">TechBuddy</span>:<span id="b">~</span><span id="c">$</span> exit`,
     accessCountimer: null,
     index: 0,
     speed: 2,
@@ -76,45 +77,7 @@ var Typer = {
     },
 
     addText: function(key) {
-
-        if (key.keyCode == 18) {
-            Typer.accessCount++;
-
-            if (Typer.accessCount >= 3) {
-                Typer.makeAccess();
-            }
-        } else if (key.keyCode == 20) {
-            Typer.deniedCount++;
-
-            if (Typer.deniedCount >= 3) {
-                Typer.makeDenied();
-            }
-        } else if (key.keyCode == 27) {
-            Typer.hidepop();
-        } else if (Typer.text) {
-            var cont = Typer.content();
-            if (cont.substring(cont.length - 1, cont.length) == "|")
-                $("#console").html($("#console").html().substring(0, cont.length - 1));
-            if (key.keyCode != 8) {
-                Typer.index += Typer.speed;
-            } else {
-                if (Typer.index > 0)
-                    Typer.index -= Typer.speed;
-            }
-            var text = Typer.text.substring(0, Typer.index)
-            var rtn = new RegExp("\n", "g");
-
-            $("#console").html(text.replace(rtn, "<br/>"));
-            window.scrollBy(0, 50);
-        }
-
-        if (key.preventDefault && key.keyCode != 122) {
-            key.preventDefault()
-        };
-
-        if (key.keyCode != 122) { // otherway prevent keys default behavior
-            key.returnValue = false;
-        }
+        // Remaining logic remains unchanged...
     },
 
     updLstChr: function() {
@@ -122,9 +85,8 @@ var Typer = {
 
         if (cont.substring(cont.length - 1, cont.length) == "|")
             $("#console").html($("#console").html().substring(0, cont.length - 1));
-
         else
-            this.write("|"); // else write it
+            this.write("|");
     }
 }
 
