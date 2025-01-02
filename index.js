@@ -9,8 +9,10 @@ var Typer = {
 	<span>  A Developer | Competitive Programmer | Tech Enthusiast</span>
 	
     ---
+    
 	My motto:
     "<span id="k">To become a successful expert in the field of Information Technology by channelizing my technical knowledge and skills to ensure personal and professional growth and to contribute to the prosperity of the organization.</span>" <!-- sjkfhskjf -->
+    
     ---
 
     🎓 Education:
@@ -20,50 +22,39 @@ var Typer = {
     💼 Current Role:
     <span> - Software Engineer @ <span id="a"> ShipBob  </span>
         - <span id="a">Ex-Amazon  </span>
-        - Intern Experience: 1+ years ( <span id="a"> Pluang Technology, MiQ Digital </span>)
-    <span>
+        - Intern Experience: 1+ years ( <span id="a"> Pluang Technology, MiQ Digital </span>)<span>
 
     ---
 
     Experience & Expertise:
-    <span id="a"> - Backend Development  
-    - Frontend Development  
-    - Databases  
-    - Data structures and Algorithms
-    - System Design, etc
-    </span>
+    - <span id="a"> Backend Development  </span>
+    - <span id="a">Frontend Development  </span>
+    - <span id="a">Databases  </span>
+    - <span id="a">Data structures and Algorithms </span>
+    - <span id="a">System Design, etc </span>
 
     Technical Proficiency:
-    <span>
-    - Frontend: <span id="a"> Vue.js, React.js </span>
+    <span>- Frontend: <span id="a"> Vue.js, React.js </span>
     - Backend:  <span id="a">ASP.NET, Spring Boot, Node.js (Express), Django  </span>
     - Databases & Tools: <span id="a"> MySQL, REST APIs, Kafka, Redis,  </span>
     - Other Skills: <span id="a"> Microservices, Azure, Git , Agile  </span>
-    - worked on several interesting projects in organizations
-    </span>
+    - worked on several interesting projects in organizations</span>
 	
     Consistent Competitive Programming:
-	<span>
-    - <a href="https://leetcode.com/ritikagarwal47/" target="_blank">Leetcode 👨‍💻</a>: Knight (Rating: 1891)  
+	<span>- <a href="https://leetcode.com/ritikagarwal47/" target="_blank">Leetcode </a>👨‍💻: Knight (Rating: 1891)  
     - <a href="https://www.codechef.com/users/ritikagarwal47" target="_blank">Codechef</a>: 4⭐ (Rating: 1955)  
-    - <a href="https://codeforces.com/profile/ritikagarwal" target="_blank">Codeforces</a>: Specialist (Rating: 1562)  
-    </span>
+    - <a href="https://codeforces.com/profile/ritikagarwal" target="_blank">Codeforces</a>: Specialist (Rating: 1562)  </span>
 
     🌟 Looking for Opportunities:
-    <span>
-    I’m actively exploring roles and opportunities where I can work on challenging and innovative projects.  
+    <span>I’m actively exploring roles and opportunities where I can work on challenging and innovative projects.  
     </span>
-
-    <span> 
-    📩 Reach me: <!-- longlonglongcomment --><a href="mailto:ritikagarwal470@gmail.com"> ritikagarwal470@gmail.com</a>
-    📜 [Download Resume](<a href="https://drive.google.com/file/d/1A_cutvpG_n6cJIKJnwlO_dc-DblEXu7V/view?usp=sharing" target="_blank">here</a>)  
-    </span>
-    <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-
+    <span> 📩 Reach me: <!-- longlonglongcomment --><a href="mailto:ritikagarwal470@gmail.com"> ritikagarwal470@gmail.com</a>
+    📜 [Download Resume](<a href="https://drive.google.com/file/d/1A_cutvpG_n6cJIKJnwlO_dc-DblEXu7V/view?usp=sharing" target="_blank">here</a>)   </span>
+    
     🌐 Connect with Me:
-    <span>
-	- <a href="https://github.com/ritikagarwal47" target="_blank">Github</a>  
-    - <a href="https://www.linkedin.com/in/ritik-agarwal-6b77031a1/" target="_blank">LinkedIn</a>
+    <span>- <a href="https://github.com/ritikagarwal47" target="_blank">Github</a>  
+    - <a href="https://www.linkedin.com/in/ritikagarwal470/" target="_blank">LinkedIn</a>
+    
     ---
 
 	Thank you for stopping by! 
