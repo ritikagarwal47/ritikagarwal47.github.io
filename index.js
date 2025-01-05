@@ -49,7 +49,7 @@ var Typer = {
     <span>I’m actively exploring roles and opportunities where I can work on challenging and innovative projects.  
     </span>
     <span> 📩 Reach me: <!-- longlonglongcomment --><a href="mailto:ritikagarwal470@gmail.com"> ritikagarwal470@gmail.com</a>
-    📜 [Download Resume](<a href="https://drive.google.com/file/d/1A_cutvpG_n6cJIKJnwlO_dc-DblEXu7V/view?usp=sharing" target="_blank">here</a>)   </span>
+    📜 [Download Resume](<a href="https://drive.google.com/file/d/1DWfLF67HuOx88oujGUaQDTOeh3kKCh0L/view?usp=sharing" target="_blank">here</a>)   </span>
     
     🌐 Connect with Me:
     <span>- <a href="https://github.com/ritikagarwal47" target="_blank">Github</a>  
